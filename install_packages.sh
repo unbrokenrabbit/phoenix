@@ -7,4 +7,5 @@ apt install -y python3
 apt install -y python3-dev
 apt install -y build-essential
 apt install -y cmake
+apt install -y clang-format
 
